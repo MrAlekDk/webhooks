@@ -7,3 +7,6 @@ To integrate with the running Webhook server:
 4. To unregister again, send a post request to either /memes-unregister, /jokes-unregister or /quotes-unregister (depending on what endpoint was subscribed to)
     The payload should be in the following format: {"username": "yourUsername",
     "theme": "TheEndpointTheme"}
+    
+    
+The repository has a client.js which can be used to test the client end of the Webhook app.
