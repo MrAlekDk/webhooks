@@ -1,0 +1,25 @@
+{
+    "memes": [{
+        "name": "My mom",
+        "desc": "My mom is a bit memey"
+    },{
+        "name": "Doge",
+        "desc": "Putins meme dog"
+    }],
+    "jokes": [{
+        "name": "Your mom...",
+        "desc": "Ya mamma so fat, that when she get's out of the ocean the water level falls 50%."
+    },
+    {
+        "name": "Switzerland joke",
+        "desc": "What's the best thing about Switzerland? I don't know, but the flag is a big plus."
+    }],
+    "quotes": [{
+        "name": "Churchill quote",
+        "desc": "We shall fight on the beaches"
+    },
+    {
+        "name": "Oscar Wilde quote",
+        "desc": "Be yourself; everyone else is already taken."
+    }]
+}
